@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>REDMIS</title>
+    <title>REDMIS - Solicitudes pendientes</title>
 
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -42,7 +42,7 @@
             <hr class="sidebar-divider my-0">
 
             <!-- Nav Item - Dashboard -->
-            <li class="nav-item active">
+            <li class="nav-item">
                 <a class="nav-link" href="index.html">
                     <i class="fas fa-fw fa-tachometer-alt"></i>
                     <span>Gestor de solicitudes</span></a>
@@ -52,7 +52,7 @@
             <hr class="sidebar-divider">
 
             <!-- Nav Item - Pages Collapse Menu -->
-            <li class="nav-item">
+            <li class="nav-item active">
                 <a class="nav-link" href="pendientes.html">
                     <i class="fas fa-fw fa-folder"></i>
                     <span>Pendientes</span></a>
@@ -114,7 +114,7 @@
                     </button>
 
                     <!-- Topbar Search -->
-                    <!-- <form
+                    <form
                         class="d-none d-sm-inline-block form-inline mr-auto ml-md-3 my-2 my-md-0 mw-100 navbar-search">
                         <div class="input-group">
                             <input type="text" class="form-control bg-light border-0 small" placeholder="Search for..."
@@ -125,7 +125,7 @@
                                 </button>
                             </div>
                         </div>
-                    </form> -->
+                    </form>
 
                     <!-- Topbar Navbar -->
                     <ul class="navbar-nav ml-auto">
@@ -193,9 +193,76 @@
 
                 <!-- Begin Page Content -->
                 <div class="container-fluid">
-                    <!-- Page Heading -->
-                    <h1 class="h3 mb-4 text-gray-800">Dashboard</h1>
 
+                    <!-- Page Heading -->
+                    <a class="nav-link" href="pendientes.html">
+                        <h1 class="h3 mb-4 text-gray-800">Regresar</h1>
+                    </a>
+
+                    <div class="row">
+
+                        <div class="col-lg-12">
+
+                            <!-- Card Persona columna 1-->
+                            <div class="card shadow mb-4">
+                                <div class="card-header py-3">
+                                    <h6 class="m-0 font-weight-bold text-primary">Persona 1</h6>
+                                </div>
+                                <div class="card-body">
+                                    <div class="row g-2">
+                                        <div class="col-6">
+                                            <div class="p-3 border bg-light">Nombre Completo</div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="p-3 border bg-light">Linea de investigacoin</div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="p-3 border bg-light">Genero </div>
+                                        </div>
+                                        <div class="col-6">
+                                            <select class="form-select p-3 border bg-light"
+                                                aria-label="Default select example">
+                                                <option selected>Tipo de membresia</option>
+                                                <option value="1">One</option>
+                                                <option value="2">Two</option>
+                                                <option value="3">Three</option>
+                                            </select>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="p-3 border bg-light">Pais</div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="p-3 border bg-light">CV</div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="p-3 border bg-light">Estado</div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="p-3 border bg-light">Email</div>
+                                        </div>
+                                        <div class="col-6">
+                                            <div class="p-3 border bg-light">Universidad</div>
+                                        </div>
+                                    </div>
+                                    <div class="row justify-content-md-center gx-5">
+                                        <div class="col">
+                                            <a href="#" class="btn btn-success btn-circle btn-lg">
+                                                <i class="fas fa-check"></i>
+                                            </a>
+                                        </div>
+                                        <div class="col">
+                                            <a href="#" class="btn btn-danger btn-circle btn-lg">
+                                                <i class="fas fa-trash"></i>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+
+                    </div>
 
                 </div>
                 <!-- /.container-fluid -->
@@ -207,7 +274,7 @@
             <footer class="sticky-footer bg-white">
                 <div class="container my-auto">
                     <div class="copyright text-center my-auto">
-                        <span>Copyright &copy; Your Website 2021</span>
+                        <span>Copyright &copy; Your Website 2020</span>
                     </div>
                 </div>
             </footer>
@@ -253,13 +320,6 @@
 
     <!-- Custom scripts for all pages-->
     <script src="js/sb-admin-2.min.js"></script>
-
-    <!-- Page level plugins -->
-    <script src="vendor/chart.js/Chart.min.js"></script>
-
-    <!-- Page level custom scripts -->
-    <script src="js/demo/chart-area-demo.js"></script>
-    <script src="js/demo/chart-pie-demo.js"></script>
 
 </body>
 
