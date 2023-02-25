@@ -1,0 +1,1 @@
+const btnPdf = document.querySelector('.btn-outline-success');
