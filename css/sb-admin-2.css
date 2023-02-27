@@ -12641,6 +12641,34 @@ body.sidebar-toggled footer.sticky-footer {
   grid-area: 5 / 1 / 6 / 3; 
 }
 
+.p-3{
+  border-radius: 10px;
+}
+
+.select{
+  cursor: pointer;
+}
+
+.select:hover{
+  font-weight: 600;
+  scale: 1.03;
+}
+
+.cv{
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #000;
+}
+
+.cv:hover{
+  color: #fff;
+  background-color: #17a673 !important;
+  font-weight: 700;
+  scale: 1.03;
+}
+
 .info_usuario-chek{
   justify-self: center;
 }
