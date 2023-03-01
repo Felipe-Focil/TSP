@@ -1,0 +1,51 @@
+.info_solicitud {
+    &_datos {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+
+        &-status {
+            text-align: center;
+            border-radius: 20px;
+            color: #fff;
+            background-color: #23b55d;
+        }
+
+        &-expira {
+            border-bottom: 1px solid #23b55d;
+            color: #23b55d;
+        }
+    }
+
+    &_membresia {
+        width: 100%;
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+
+        img {
+            width: 100%;
+            height: 100%;
+        }
+
+        &-btnDescargar{
+            display: flex;
+            gap: 5px;
+            justify-content: center;
+            align-items: center;
+            line-height: 30px;
+            margin-bottom: 20px;
+            border: none;
+            background-color: #6c6c71;
+            color: #fff;
+            border-radius: 7px;
+            width: 130px;
+            height: 30px;
+            &:hover{
+                background-color: #6868eb;
+                scale: 1.05;
+            }
+        }
+    }
+}

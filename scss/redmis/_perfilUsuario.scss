@@ -3,6 +3,14 @@
     flex-direction: column;
     align-items: center;
     gap: 20px;
+    h1{
+        margin-bottom: 0 !important;
+    }
+    hr{
+        width: 100%;
+        border: .5px solid #00000075;
+        margin: 0 !important;
+    }
     &_usuario {
         font-size: large;
         font-weight: 600;
@@ -25,6 +33,13 @@
                 object-fit: cover;
                 border-radius: 50%;
             }
+            &-edit{
+                cursor: pointer;
+                &:hover{
+                    color: #136a41;
+                    scale: 1.1;
+                }
+            }
         }
 
         &-lugar {
@@ -33,6 +48,9 @@
         }
     }
     &-btnEditar{
+        line-height: 30px;
+        text-align: center;
+        margin-bottom: 50px;
         background-color: #6c6c71;
         width: 100px;
         height: 30px;
@@ -40,8 +58,46 @@
         border: none;
         color: #fff;
         &:hover{
+            color: #fff;
+            text-decoration: none;
             background-color: #6868eb;
             scale: 1.1;
+        }
+    }
+    &-btnsEdit{
+        margin-bottom: 50px;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        &-aceptar{
+            background-color: #198754;
+            border-radius: 7px;
+            border: none;
+            width: 100px;
+            height: 30px;
+            color: #fff;
+            &:hover{
+                background-color: #136a41;
+                scale: 1.1;
+                color: #fff;
+            }
+        }
+        &-cancelar{
+            line-height: 30px;
+            color: #fff;
+            text-align: center;
+            background-color: #dc3545;
+            border-radius: 7px;
+            border: none;
+            width: 100px;
+            height: 30px;
+            &:hover{
+                background-color: #982430;
+                color: #fff;
+                text-decoration: none;
+                scale: 1.1;
+            }
         }
     }
 }

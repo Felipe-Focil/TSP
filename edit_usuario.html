@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>REDMIS - Solicitudes pendientes</title>
+    <title>REDMIS</title>
 
     <!-- Custom styles for this template-->
     <link href="scss/sb-admin-2.css" rel="stylesheet">
@@ -43,20 +43,20 @@
             <hr class="sidebar-divider my-0">
 
             <!-- Nav Item - Dashboard -->
-            <li class="nav-item">
-                <a class="nav-link" href="index.html">
+            <li class="nav-item active">
+                <a class="nav-link" href="perfil_usuario.html">
                     <i class="fas fa-fw fa-tachometer-alt"></i>
-                    <span>Gestor de solicitudes</span></a>
+                    <span>Perfil</span></a>
             </li>
 
             <!-- Divider -->
             <hr class="sidebar-divider">
 
             <!-- Nav Item - Pages Collapse Menu -->
-            <li class="nav-item active">
-                <a class="nav-link" href="pendientes.html">
+            <li class="nav-item">
+                <a class="nav-link" href="membresia.html">
                     <i class="fas fa-fw fa-folder"></i>
-                    <span>Pendientes</span></a>
+                    <span>Memebresia</span></a>
             </li>
 
             <!-- Divider -->
@@ -115,7 +115,7 @@
                     </button>
 
                     <!-- Topbar Search -->
-                    <form
+                    <!-- <form
                         class="d-none d-sm-inline-block form-inline mr-auto ml-md-3 my-2 my-md-0 mw-100 navbar-search">
                         <div class="input-group">
                             <input type="text" class="form-control bg-light border-0 small" placeholder="Search for..."
@@ -126,7 +126,7 @@
                                 </button>
                             </div>
                         </div>
-                    </form>
+                    </form> -->
 
                     <!-- Topbar Navbar -->
                     <ul class="navbar-nav ml-auto">
@@ -194,56 +194,84 @@
 
                 <!-- Begin Page Content -->
                 <div class="container-fluid">
-
                     <!-- Page Heading -->
-                    <a class="regresar" href="pendientes.html">
-                        <i class='fas fa-angle-left'></i>
-                        <h4 class="">Regresar</h4>
-                    </a>
-
-                    <div class="row">
-
-                        <div class="col-lg-12">
-
-                            <!-- Card Persona columna 1-->
-                            <div class="card shadow mb-4">
-                                <div class="card-header py-3">
-                                    <h1 class="m-0 font-weight-bold text-primary">Persona 1</h1>
-                                </div>
-                                <div class="card-body info_usuario">
-                                    <div class="p-3 border bg-light">Nombre Completo</div>
-                                    <div class="p-3 border bg-light">Linea de investigacoin</div>
-                                    <div class="p-3 border bg-light">Genero </div>
-                                    <select class="form-select p-3 border bg-light select"
-                                        aria-label="Default select example">
-                                        <option selected>
-                                            Tipo de membresia
-                                        </option>
-                                        <option value="1">One</option>
-                                        <option value="2">Two</option>
-                                        <option value="3">Three</option>
+                    <section class="info_perfil">
+                        <h1 class="h3 mb-4 text-gray-800">Perfil</h1>
+                        <article class="info_perfil_usuario">
+                            <div>
+                                <label for="">Nombre/s</label>
+                                <input type="text" value="El pepe">
+                            </div>
+                            <div class="info_perfil_usuario-img">
+                                <img src="./img/avatar.png" alt="">
+                                <label class="info_perfil_usuario-img-edit" for="img_upload"><i class='fas fa-edit'></i>Editar</label>
+                            </div>
+                            <div>
+                                <label for="">Apellido</label>
+                                <input type="text" value="Medio metro">
+                            </div>
+                            <div>
+                                <label for="">Genero</label>
+                                <select>
+                                    <option> Genero </option>
+                                    <option value="M" selected>Masculino</option>
+                                    <option value="F">Femenino</option>
+                                    <option value="PD">Prefiero no decirlo</option>
+                                </select>
+                            </div>
+                            <div class="info_perfil_usuario-lugar">
+                                <div>
+                                    <label for="">Pais</label>
+                                    <select>
+                                        <option> Pais </option>
+                                        <option value="M" selected>Mexico</option>
+                                        <option value="F">El Salvador</option>
                                     </select>
-                                    <div class="p-3 border bg-light">Pais</div>
-                                    <div class="p-3 border bg-light cv"> 
-                                        <i class="fa fa-download"></i><span>CV</span>
-                                    </div>
-                                    <div class="p-3 border bg-light">Estado</div>
-                                    <div class="p-3 border bg-light">Email</div>
-                                    <div class="p-3 border bg-light info_usuario-elem">Universidad</div>
-                                    <a href="pdf.html" class="btn btn-success btn-circle btn-lg info_usuario-chek">
-                                        <i class="fas fa-check"></i>
-                                    </a>
-                                    <a href="#" class="btn btn-danger btn-circle btn-lg info_usuario-trash">
-                                        <i class="fas fa-trash"></i>
-                                    </a>
+                                </div>
+                                <div>
+                                    <label for="">Estado</label>
+                                    <select>
+                                        <option> Estado </option>
+                                        <option value="Puebla" selected>Puebla</option>
+                                        <option value="Oaxaca">Oaxaca</option>
+                                    </select>
                                 </div>
                             </div>
-
+                            <div>
+                                <label for="">Universidad</label>
+                                <select>
+                                    <option> Universidad </option>
+                                    <option value="UPAEP" selected>Universidad Popular Autonoma del Estado de Puebla
+                                        (UPAEP)</option>
+                                    <option value="UDLAP">(UDLAP)</option>
+                                </select>
+                            </div>
+                            <div>
+                                <label for="">Linea de invesigacion</label>
+                                <input type="text" value="Tu corazon">
+                            </div>
+                            <div>
+                                <label for="">CV</label>
+                                <input type="file">
+                            </div>
+                            <div>
+                                <label for="">Email</label>
+                                <input type="email" value="ejemplo@upaep.mx">
+                            </div>
+                            <div>
+                                <label for="">Contraseña</label>
+                                <input type="password" value="........">
+                            </div>
+                            <div>
+                                <label for="">Repite la contraseña</label>
+                                <input type="password" value="........">
+                            </div>
+                        </article>
+                        <div class="info_perfil-btnsEdit">
+                            <button class="info_perfil-btnsEdit-aceptar" type="submit">Aceptar</button>
+                            <a href="perfil_usuario.html" class="info_perfil-btnsEdit-cancelar">Cancelar</a>
                         </div>
-
-
-                    </div>
-
+                    </section>
                 </div>
                 <!-- /.container-fluid -->
 
@@ -254,7 +282,7 @@
             <footer class="sticky-footer bg-white">
                 <div class="container my-auto">
                     <div class="copyright text-center my-auto">
-                        <span>Copyright &copy; Your Website 2020</span>
+                        <span>Copyright &copy; Your Website 2021</span>
                     </div>
                 </div>
             </footer>
@@ -300,6 +328,13 @@
 
     <!-- Custom scripts for all pages-->
     <script src="js/sb-admin-2.min.js"></script>
+
+    <!-- Page level plugins -->
+    <script src="vendor/chart.js/Chart.min.js"></script>
+
+    <!-- Page level custom scripts -->
+    <script src="js/demo/chart-area-demo.js"></script>
+    <script src="js/demo/chart-pie-demo.js"></script>
 
 </body>
 
