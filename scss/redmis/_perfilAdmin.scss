@@ -1,0 +1,73 @@
+.regresar {
+    width: 10px;
+    color: #1c294e;
+    display: flex;
+    align-items: baseline;
+    gap: 5px;
+}
+
+.regresar :hover {
+    display: block;
+}
+
+.fa-angle-left {
+    font-size: 24px;
+}
+
+.info_usuario {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(6, 1fr);
+    grid-column-gap: 35px;
+    grid-row-gap: 12px;
+}
+
+.info_usuario-elem {
+    width: 48.4%;
+    grid-area: 5 / 1 / 6 / 3;
+}
+
+.p-3 {
+    border-radius: 10px;
+}
+
+.select {
+    cursor: pointer;
+}
+
+.select:hover {
+    font-weight: 600;
+    scale: 1.03;
+}
+
+.cv {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #000;
+}
+
+.cv:hover {
+    color: #fff;
+    background-color: #17a673 !important;
+    font-weight: 700;
+    scale: 1.03;
+}
+
+.info_usuario-chek {
+    justify-self: center;
+}
+
+.info_usuario-trash {
+    justify-self: center;
+}
+
+.pdf_container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    border: #000 solid 1px;
+}

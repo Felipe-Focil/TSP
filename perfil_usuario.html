@@ -11,14 +11,15 @@
 
     <title>REDMIS</title>
 
+    <!-- Custom styles for this template-->
+    <link href="scss/sb-admin-2.css" rel="stylesheet">
+
     <!-- Custom fonts for this template-->
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
     <link
         href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
         rel="stylesheet">
 
-    <!-- Custom styles for this template-->
-    <link href="css/sb-admin-2.css" rel="stylesheet">
 
 </head>
 
@@ -194,10 +195,74 @@
                 <!-- Begin Page Content -->
                 <div class="container-fluid">
                     <!-- Page Heading -->
-                    <h1 class="h3 mb-4 text-gray-800">Dashboard</h1>
-                    <section>
-                        <label for="">Nombre</label>
-                        <input type="text" placeholder="El pepe" disabled>
+                    <section class="info_perfil">
+                        <h1 class="h3 mb-4 text-gray-800">Perfil</h1>
+                        <article class="info_perfil_usuario">
+                            <div>
+                                <label for="">Nombre/s</label>
+                                <input type="text" placeholder="El pepe" disabled>
+                            </div>
+                            <div class="info_perfil_usuario-img">
+                                <img src="./img/avatar.png" alt="">
+                            </div>
+                            <div>
+                                <label for="">Apellido</label>
+                                <input type="text" placeholder="Medio metro" disabled>
+                            </div>
+                            <div>
+                                <label for="">Genero</label>
+                                <select disabled>
+                                    <option> Genero </option>
+                                    <option value="M" selected>Masculino</option>
+                                    <option value="F">Femenino</option>
+                                    <option value="PD">Prefiero no decirlo</option>
+                                </select>
+                            </div>
+                            <div class="info_perfil_usuario-lugar">
+                                <div>
+                                    <label for="">Pais</label>
+                                    <select disabled>
+                                        <option> Pais </option>
+                                        <option value="M" selected>Mexico</option>
+                                        <option value="F">El Salvador</option>
+                                    </select>
+                                </div>
+                                <div>
+                                    <label for="">Estado</label>
+                                    <select disabled>
+                                        <option> Estado </option>
+                                        <option value="Puebla" selected>Puebla</option>
+                                        <option value="Oaxaca">Oaxaca</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div>
+                                <label for="">Universidad</label>
+                                <select disabled>
+                                    <option> Universidad </option>
+                                    <option value="UPAEP" selected>Universidad Popular Autonoma del Estado de Puebla
+                                        (UPAEP)</option>
+                                    <option value="UDLAP">(UDLAP)</option>
+                                </select>
+                            </div>
+                            <div>
+                                <label for="">Linea de invesigacion</label>
+                                <input type="text" placeholder="Tu corazon" disabled>
+                            </div>
+                            <div>
+                                <label for="">CV</label>
+                                <input type="file" disabled>
+                            </div>
+                            <div>
+                                <label for="">Email</label>
+                                <input type="email" placeholder="ejemplo@upaep.mx" disabled>
+                            </div>
+                            <div>
+                                <label for="">Contraseña</label>
+                                <input type="password" placeholder="........" disabled>
+                            </div>
+                        </article>
+                        <button class="info_perfil-btnEditar" type="submit">Editar</button>
                     </section>
                 </div>
                 <!-- /.container-fluid -->
