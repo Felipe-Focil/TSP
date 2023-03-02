@@ -4,7 +4,9 @@ btnPdf.addEventListener('click', () => {
         icon: 'success',
         title: 'PDF enviado',
         showConfirmButton: false,
-        timer: 1500
+        timer: 1500,
+        allowOutsideClick: false
+
     })
     setTimeout(() => {
         location.href = 'pendientes.html'

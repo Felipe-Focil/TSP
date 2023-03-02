@@ -10642,4 +10642,7 @@ body.sidebar-toggled footer.sticky-footer {
 .info_solicitud_membresia-btnDescargar:hover {
   background-color: #6868eb;
   scale: 1.05;
+}
+.swal2-actions{
+  gap: 20px;
 }/*# sourceMappingURL=sb-admin-2.css.map */
