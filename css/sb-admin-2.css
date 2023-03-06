@@ -12103,7 +12103,7 @@ a:focus {
 }
 
 .bg-login-image {
-  background-image: url("img/loginredmis.png");
+  background-image: url("../img/loginredmis.png");
   background-position: center;
   background-size: cover;
 }
