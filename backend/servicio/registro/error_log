@@ -1,0 +1,1 @@
+[10-May-2023 07:12:25 UTC] PHP Notice:  Undefined property: stdClass::$genero in /home/luminiso/public_html/membresias/backend/datos/registro/datos.php on line 24

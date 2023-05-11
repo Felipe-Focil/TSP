@@ -35,7 +35,7 @@
         <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
             <!-- Sidebar - Brand -->
-            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
+            <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.php">
                 <div class="sidebar-brand-icon rotate-n-15">
                     <i class="fas fa-laugh-wink"></i>
                 </div>
@@ -47,7 +47,7 @@
 
             <!-- Nav Item - Dashboard -->
             <li class="nav-item">
-                <a class="nav-link" href="index.html">
+                <a class="nav-link" href="index.php">
                     <i class="fas fa-fw fa-tachometer-alt"></i>
                     <span>Gestor de solicitudes</span></a>
             </li>
@@ -57,7 +57,7 @@
 
             <!-- Nav Item - Pages Collapse Menu -->
             <li class="nav-item active">
-                <a class="nav-link" href="pendientes.html">
+                <a class="nav-link" href="pendientes.php">
                     <i class="fas fa-fw fa-folder"></i>
                     <span>Pendientes</span></a>
             </li>
@@ -67,7 +67,7 @@
 
             <!-- Nav Item - Pages Collapse Menu -->
             <li class="nav-item">
-                <a class="nav-link" href="index.html">
+                <a class="nav-link" href="aceptadas.php">
                     <i class="fas fa-fw fa-folder"></i>
                     <span>Aceptadas</span></a>
             </li>
@@ -77,7 +77,7 @@
 
             <!-- Nav Item - Charts -->
             <li class="nav-item">
-                <a class="nav-link" href="index.html">
+                <a class="nav-link" href="rechazadas.php">
                     <i class="fas fa-fw fa-folder"></i>
                     <span>Rechazadas</span></a>
             </li>
@@ -87,9 +87,9 @@
 
             <!-- Nav Item - Tables -->
             <li class="nav-item">
-                <a class="nav-link" href="index.html">
+                <a class="nav-link" href="memebresia_admin.html">
                     <i class="fas fa-fw fa-folder"></i>
-                    <span>Membresias</span></a>
+                    <span>Membresia</span></a>
             </li>
 
             <!-- Divider -->
@@ -199,7 +199,7 @@
                 <div class="container-fluid">
 
                     <!-- Page Heading -->
-                    <a class="regresar" href="pendientes.html">
+                    <a class="regresar" href="pendientes.php">
                         <i class='fas fa-angle-left'></i>
                         <h4 class="">Regresar</h4>
                     </a>
@@ -211,13 +211,13 @@
                             <!-- Card Persona columna 1-->
                             <div class="card shadow mb-4">
                                 <div class="card-header py-3">
-                                    <h1 class="m-0 font-weight-bold text-primary">Persona 1</h1>
+                                    <h1 class="m-0 font-weight-bold text-primary titulo-nom">Solicitud</h1>
                                 </div>
                                 <div class="card-body info_usuario">
-                                    <div class="p-3 border bg-light">Nombre Completo</div>
-                                    <div class="p-3 border bg-light">Linea de investigacoin</div>
-                                    <div class="p-3 border bg-light">Genero </div>
-                                    <select class="form-select p-3 border bg-light select"
+                                    <div class="p-3 border bg-light nom-comp">Nombre Completo</div>
+                                    <div class="p-3 border bg-light li">Linea de investigacoin</div>
+                                    <div class="p-3 border bg-light genero">Genero </div>
+                                    <select class="form-select p-3 border bg-light select "
                                         aria-label="Default select example">
                                         <option selected>
                                             Tipo de membresia
@@ -226,20 +226,19 @@
                                         <option value="2">Two</option>
                                         <option value="3">Three</option>
                                     </select>
-                                    <div class="p-3 border bg-light">Pais</div>
+                                    <div class="p-3 border bg-light pais">Pais</div>
                                     <div class="p-3 border bg-light cv">
                                         <i class="fa fa-download"></i><span>CV</span>
                                     </div>
-                                    <div class="p-3 border bg-light">Estado</div>
-                                    <div class="p-3 border bg-light">Email</div>
-                                    <div class="p-3 border bg-light info_usuario-elem">Universidad</div>
+                                    <div class="p-3 border bg-light estado">Estado</div>
+                                    <div class="p-3 border bg-light email">Email</div>
+                                    <div class="p-3 border bg-light info_usuario-elem uni">Universidad</div>
                                     <button type="button"
-                                        onclick="generatePDF('Universidad Popular \nAutonoma del Estado de Puebla')"
                                         class="btn btn-success btn-circle btn-lg info_usuario-chek"><i
-                                            class="fas fa-check"></i></button>
+                                            class="fas fa-check" id="aceptar"></i></button>
 
-                                    <a href="#" class="btn btn-danger btn-circle btn-lg info_usuario-trash">
-                                        <i class="fas fa-trash"></i>
+                                    <a class="btn btn-danger btn-circle btn-lg info_usuario-trash">
+                                        <i class="fas fa-trash" id="rechazar"></i>
                                     </a>
                                 </div>
                             </div>
@@ -310,9 +309,8 @@
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
     <!-- Script propios -->
-    <script src="./js/variables.js"></script>
-    <script src="./js/usuario.js"></script>
-    <script src="js/pdf.js"></script>
+    <script defer src="js/get_info_solicitud.js"></script>
+    <script defer src="js/estatusSolicitud.js"></script>
 
 </body>
 

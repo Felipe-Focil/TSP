@@ -31,3 +31,7 @@ btnElimUsuario.addEventListener('click', () => {
         }
     })
 });
+
+function regresar() {
+    window.history.back();
+}

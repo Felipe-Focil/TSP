@@ -12649,5 +12649,7 @@ body.sidebar-toggled footer.sticky-footer {
 .hidden {
   display: none;
 }
-
+#tdTipo{
+    text-transform: uppercase;
+}
 /*# sourceMappingURL=sb-admin-2.css.map */

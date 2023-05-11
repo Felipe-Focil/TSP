@@ -3,17 +3,14 @@
     flex-direction: column;
     align-items: center;
     gap: 20px;
-
-    h1 {
+    h1{
         margin-bottom: 0 !important;
     }
-
-    hr {
+    hr{
         width: 100%;
         border: .5px solid #00000075;
         margin: 0 !important;
     }
-
     &_usuario {
         font-size: large;
         font-weight: 600;
@@ -28,20 +25,17 @@
             flex-direction: column;
         }
 
-        &-img {
+        &-img{
             grid-area: 1 / 2 / 3 / 3;
             width: 200px;
             height: 200px;
-
-            img {
+            img{
                 object-fit: cover;
                 border-radius: 50%;
             }
-
-            &-edit {
+            &-edit{
                 cursor: pointer;
-
-                &:hover {
+                &:hover{
                     color: #136a41;
                     scale: 1.1;
                 }
@@ -53,8 +47,7 @@
             gap: 15px;
         }
     }
-
-    &-btnEditar {
+    &-btnEditar{
         line-height: 30px;
         text-align: center;
         margin-bottom: 50px;
@@ -64,38 +57,33 @@
         border-radius: 7px;
         border: none;
         color: #fff;
-
-        &:hover {
+        &:hover{
             color: #fff;
             text-decoration: none;
             background-color: #6868eb;
             scale: 1.1;
         }
     }
-
-    &-btnsEdit {
+    &-btnsEdit{
         margin-bottom: 50px;
         width: 100%;
         display: flex;
         align-items: center;
         justify-content: space-around;
-
-        &-aceptar {
+        &-aceptar{
             background-color: #198754;
             border-radius: 7px;
             border: none;
             width: 100px;
             height: 30px;
             color: #fff;
-
-            &:hover {
+            &:hover{
                 background-color: #136a41;
                 scale: 1.1;
                 color: #fff;
             }
         }
-
-        &-cancelar {
+        &-cancelar{
             line-height: 30px;
             color: #fff;
             text-align: center;
@@ -104,8 +92,7 @@
             border: none;
             width: 100px;
             height: 30px;
-
-            &:hover {
+            &:hover{
                 background-color: #982430;
                 color: #fff;
                 text-decoration: none;

@@ -1,0 +1,6 @@
+[05-May-2023 19:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getInfoMembresia() in /home/luminiso/public_html/membresias/backend/servicio/membresia/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/luminiso/public_html/membresias/backend/servicio/membresia/index.php on line 28
+[05-May-2023 19:42:59 UTC] PHP Notice:  Undefined variable: data in /home/luminiso/public_html/membresias/backend/servicio/membresia/index.php on line 28
+[05-May-2023 19:42:59 UTC] PHP Notice:  Trying to get property 'email' of non-object in /home/luminiso/public_html/membresias/backend/datos/membresia/datos.php on line 21

@@ -1,0 +1,4 @@
+[24-Apr-2023 04:57:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getSolicitudes() in /home/luminiso/public_html/membresias/backend/servicio/solicitudes/index.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/luminiso/public_html/membresias/backend/servicio/solicitudes/index.php on line 28

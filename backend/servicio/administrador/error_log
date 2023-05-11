@@ -1,0 +1,263 @@
+[06-May-2023 02:31:25 UTC] PHP Fatal error:  Cannot redeclare addAdmin() (previously declared in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php:45) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 76
+[09-May-2023 18:55:51 UTC] PHP Notice:  Undefined variable: row in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 26
+[09-May-2023 18:55:51 UTC] PHP Notice:  Undefined variable: row in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 27
+[09-May-2023 18:55:51 UTC] PHP Notice:  Undefined variable: row in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 28
+[09-May-2023 18:55:51 UTC] PHP Notice:  Undefined variable: row in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 29
+[09-May-2023 18:55:51 UTC] PHP Notice:  Undefined variable: row in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 18:56:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, string given in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 25
+[09-May-2023 18:58:38 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 27
+[09-May-2023 19:00:21 UTC] PHP Notice:  Undefined variable: result in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 26
+[09-May-2023 19:00:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 26
+[09-May-2023 19:00:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 25
+[09-May-2023 19:00:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 26
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'apellidos' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 31
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'universidad' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 32
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'estatus' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 33
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'tipo' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 34
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'apellidos' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 31
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'universidad' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 32
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'estatus' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 33
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'tipo' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 34
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'apellidos' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 31
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'universidad' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 32
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'estatus' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 33
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'tipo' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 34
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'apellidos' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 31
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'universidad' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 32
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'estatus' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 33
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'tipo' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 34
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'apellidos' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 31
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'universidad' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 32
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'estatus' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 33
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'tipo' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 34
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'apellidos' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 31
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'universidad' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 32
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'estatus' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 33
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'tipo' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 34
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'apellidos' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 31
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'universidad' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 32
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'estatus' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 33
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'tipo' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 34
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'apellidos' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 31
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'universidad' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 32
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'estatus' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 33
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'tipo' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 34
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'apellidos' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 31
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'universidad' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 32
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'estatus' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 33
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'tipo' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 34
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'apellidos' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 31
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'universidad' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 32
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'estatus' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 33
+[09-May-2023 19:04:18 UTC] PHP Warning:  Illegal string offset 'tipo' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 34
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'apellidos' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 31
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'universidad' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 32
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'estatus' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 33
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'tipo' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 34
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'apellidos' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 31
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'universidad' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 32
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'estatus' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 33
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'tipo' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 34
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'apellidos' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 31
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'universidad' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 32
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'estatus' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 33
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'tipo' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 34
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'apellidos' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 31
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'universidad' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 32
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'estatus' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 33
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'tipo' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 34
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'apellidos' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 31
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'universidad' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 32
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'estatus' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 33
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'tipo' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 34
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'apellidos' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 31
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'universidad' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 32
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'estatus' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 33
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'tipo' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 34
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'apellidos' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 31
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'universidad' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 32
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'estatus' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 33
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'tipo' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 34
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'apellidos' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 31
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'universidad' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 32
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'estatus' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 33
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'tipo' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 34
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'apellidos' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 31
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'universidad' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 32
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'estatus' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 33
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'tipo' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 34
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'nombre' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'apellidos' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 31
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'universidad' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 32
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'estatus' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 33
+[09-May-2023 19:04:30 UTC] PHP Warning:  Illegal string offset 'tipo' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 34
+[09-May-2023 19:06:19 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:19 UTC] PHP Notice:  Undefined index: i in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:19 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:19 UTC] PHP Notice:  Undefined index: i in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:19 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:19 UTC] PHP Notice:  Undefined index: i in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:19 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:19 UTC] PHP Notice:  Undefined index: i in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:19 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:19 UTC] PHP Notice:  Undefined index: i in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:19 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:19 UTC] PHP Notice:  Undefined index: i in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:19 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:19 UTC] PHP Notice:  Undefined index: i in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:19 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:19 UTC] PHP Notice:  Undefined index: i in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:19 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:19 UTC] PHP Notice:  Undefined index: i in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:19 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:19 UTC] PHP Notice:  Undefined index: i in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:19 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:19 UTC] PHP Notice:  Undefined index: i in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:19 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:19 UTC] PHP Notice:  Undefined index: i in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:40 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:40 UTC] PHP Warning:  Illegal string offset 'i' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:40 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:40 UTC] PHP Warning:  Illegal string offset 'i' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:40 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:40 UTC] PHP Warning:  Illegal string offset 'i' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:40 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:40 UTC] PHP Warning:  Illegal string offset 'i' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:40 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:40 UTC] PHP Warning:  Illegal string offset 'i' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:40 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:40 UTC] PHP Warning:  Illegal string offset 'i' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:40 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:40 UTC] PHP Warning:  Illegal string offset 'i' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:40 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:40 UTC] PHP Warning:  Illegal string offset 'i' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:40 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:40 UTC] PHP Warning:  Illegal string offset 'i' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:40 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:40 UTC] PHP Warning:  Illegal string offset 'i' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:40 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:40 UTC] PHP Warning:  Illegal string offset 'i' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:40 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:40 UTC] PHP Warning:  Illegal string offset 'i' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:59 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:59 UTC] PHP Warning:  Illegal string offset 'i' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:59 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:59 UTC] PHP Warning:  Illegal string offset 'i' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:59 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:59 UTC] PHP Warning:  Illegal string offset 'i' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:59 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:59 UTC] PHP Warning:  Illegal string offset 'i' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:59 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:59 UTC] PHP Warning:  Illegal string offset 'i' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:59 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:59 UTC] PHP Warning:  Illegal string offset 'i' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:59 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:59 UTC] PHP Warning:  Illegal string offset 'i' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:59 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:59 UTC] PHP Warning:  Illegal string offset 'i' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:59 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:59 UTC] PHP Warning:  Illegal string offset 'i' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:59 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:59 UTC] PHP Warning:  Illegal string offset 'i' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:59 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:59 UTC] PHP Warning:  Illegal string offset 'i' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:59 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:06:59 UTC] PHP Warning:  Illegal string offset 'i' in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:44 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:44 UTC] PHP Notice:  Undefined index: i in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:44 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:44 UTC] PHP Notice:  Undefined index: i in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:44 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:44 UTC] PHP Notice:  Undefined index: i in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:44 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:44 UTC] PHP Notice:  Undefined index: i in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:44 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:44 UTC] PHP Notice:  Undefined index: i in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:44 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:44 UTC] PHP Notice:  Undefined index: i in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:44 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:44 UTC] PHP Notice:  Undefined index: i in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:44 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:44 UTC] PHP Notice:  Undefined index: i in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:44 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:44 UTC] PHP Notice:  Undefined index: i in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:44 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:44 UTC] PHP Notice:  Undefined index: i in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:44 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:44 UTC] PHP Notice:  Undefined index: i in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:44 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:44 UTC] PHP Notice:  Undefined index: i in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:57 UTC] PHP Notice:  Undefined offset: 5 in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:57 UTC] PHP Notice:  Undefined offset: 6 in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:57 UTC] PHP Notice:  Undefined offset: 7 in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:57 UTC] PHP Notice:  Undefined offset: 8 in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:57 UTC] PHP Notice:  Undefined offset: 9 in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:57 UTC] PHP Notice:  Undefined offset: 10 in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:57 UTC] PHP Notice:  Undefined offset: 11 in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:07:57 UTC] PHP Notice:  Undefined offset: 12 in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:08:18 UTC] PHP Notice:  Uninitialized string offset: 6 in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:08:18 UTC] PHP Notice:  Uninitialized string offset: 7 in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:08:18 UTC] PHP Notice:  Uninitialized string offset: 8 in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:08:18 UTC] PHP Notice:  Uninitialized string offset: 9 in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:08:18 UTC] PHP Notice:  Uninitialized string offset: 10 in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:08:18 UTC] PHP Notice:  Uninitialized string offset: 11 in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:08:18 UTC] PHP Notice:  Uninitialized string offset: 12 in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:09:48 UTC] PHP Notice:  Array to string conversion in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:09:48 UTC] PHP Notice:  Array to string conversion in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:09:48 UTC] PHP Notice:  Array to string conversion in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:09:48 UTC] PHP Notice:  Array to string conversion in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:09:48 UTC] PHP Notice:  Array to string conversion in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:09:48 UTC] PHP Notice:  Array to string conversion in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:09:48 UTC] PHP Notice:  Array to string conversion in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:09:48 UTC] PHP Notice:  Array to string conversion in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:09:48 UTC] PHP Notice:  Array to string conversion in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:09:48 UTC] PHP Notice:  Array to string conversion in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:09:48 UTC] PHP Notice:  Array to string conversion in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:09:48 UTC] PHP Notice:  Array to string conversion in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 30
+[09-May-2023 19:09:58 UTC] PHP Notice:  Array to string conversion in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 29
+[09-May-2023 19:10:39 UTC] PHP Notice:  Array to string conversion in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 29
+[09-May-2023 19:22:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php:34
+Stack trace:
+#0 /home/luminiso/public_html/membresias/backend/servicio/administrador/index.php(54): getDataAdmin()
+#1 {main}
+  thrown in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 34
+[09-May-2023 19:26:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on string in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php:34
+Stack trace:
+#0 /home/luminiso/public_html/membresias/backend/servicio/administrador/index.php(54): getDataAdmin()
+#1 {main}
+  thrown in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 34
+[09-May-2023 19:28:47 UTC] PHP Notice:  Undefined index: email in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 37
+[09-May-2023 19:28:47 UTC] PHP Notice:  Undefined index: email in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 37
+[09-May-2023 19:28:47 UTC] PHP Notice:  Undefined index: email in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 37
+[09-May-2023 19:28:47 UTC] PHP Notice:  Undefined index: email in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 37
+[09-May-2023 19:28:47 UTC] PHP Notice:  Undefined index: email in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 37
+[09-May-2023 19:28:47 UTC] PHP Notice:  Undefined index: email in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 37
+[09-May-2023 19:28:47 UTC] PHP Notice:  Undefined index: email in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 37
+[09-May-2023 19:28:47 UTC] PHP Notice:  Undefined index: email in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 37
+[09-May-2023 19:28:47 UTC] PHP Notice:  Undefined index: email in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 37
+[09-May-2023 19:28:47 UTC] PHP Notice:  Undefined index: email in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 37
+[09-May-2023 19:28:47 UTC] PHP Notice:  Undefined index: email in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 37
+[09-May-2023 19:28:47 UTC] PHP Notice:  Undefined index: email in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 37
+[09-May-2023 22:38:21 UTC] PHP Notice:  Undefined index: apellido in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 37
+[09-May-2023 22:38:21 UTC] PHP Notice:  Undefined index: apellido in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 37
+[09-May-2023 22:38:21 UTC] PHP Notice:  Undefined index: apellido in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 37
+[09-May-2023 22:38:21 UTC] PHP Notice:  Undefined index: apellido in /home/luminiso/public_html/membresias/backend/datos/administrador/datos.php on line 37

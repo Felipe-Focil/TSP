@@ -1,0 +1,19 @@
+[23-Apr-2023 22:42:50 UTC] PHP Notice:  Undefined index: genero in /home/luminiso/public_html/membresias/backend/datos/perfil_usuario/datos.php on line 34
+[23-Apr-2023 22:42:50 UTC] PHP Notice:  Undefined index: imagen in /home/luminiso/public_html/membresias/backend/datos/perfil_usuario/datos.php on line 41
+[23-Apr-2023 22:42:50 UTC] PHP Notice:  Undefined index: cv in /home/luminiso/public_html/membresias/backend/datos/perfil_usuario/datos.php on line 42
+[23-Apr-2023 22:43:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/luminiso/public_html/membresias/backend/datos/perfil_usuario/datos.php on line 28
+[23-Apr-2023 22:43:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/luminiso/public_html/membresias/backend/datos/perfil_usuario/datos.php on line 29
+[23-Apr-2023 22:44:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/luminiso/public_html/membresias/backend/datos/perfil_usuario/datos.php on line 28
+[23-Apr-2023 22:44:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/luminiso/public_html/membresias/backend/datos/perfil_usuario/datos.php on line 29
+[23-Apr-2023 22:44:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/luminiso/public_html/membresias/backend/datos/perfil_usuario/datos.php on line 28
+[23-Apr-2023 22:44:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/luminiso/public_html/membresias/backend/datos/perfil_usuario/datos.php on line 29
+[10-May-2023 07:22:52 UTC] PHP Notice:  Undefined variable: result in /home/luminiso/public_html/membresias/backend/datos/perfil_usuario/datos.php on line 61
+[10-May-2023 07:22:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/luminiso/public_html/membresias/backend/datos/perfil_usuario/datos.php on line 61
+[10-May-2023 07:22:52 UTC] PHP Notice:  Undefined variable: result in /home/luminiso/public_html/membresias/backend/datos/perfil_usuario/datos.php on line 62
+[10-May-2023 07:22:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/luminiso/public_html/membresias/backend/datos/perfil_usuario/datos.php on line 62
+[10-May-2023 07:23:24 UTC] PHP Notice:  Undefined variable: result in /home/luminiso/public_html/membresias/backend/datos/perfil_usuario/datos.php on line 62
+[10-May-2023 07:23:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/luminiso/public_html/membresias/backend/datos/perfil_usuario/datos.php on line 62
+[10-May-2023 07:24:20 UTC] PHP Notice:  Undefined variable: result in /home/luminiso/public_html/membresias/backend/datos/perfil_usuario/datos.php on line 62
+[10-May-2023 07:24:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/luminiso/public_html/membresias/backend/datos/perfil_usuario/datos.php on line 62
+[10-May-2023 07:24:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/luminiso/public_html/membresias/backend/datos/perfil_usuario/datos.php on line 62
+[10-May-2023 07:26:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, string given in /home/luminiso/public_html/membresias/backend/datos/perfil_usuario/datos.php on line 62

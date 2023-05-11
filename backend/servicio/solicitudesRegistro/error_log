@@ -1,0 +1,567 @@
+[01-May-2023 07:10:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 28
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row3 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row4 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row2 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row5 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row3 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row4 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row2 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row5 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row3 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row4 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row2 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row5 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row3 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row4 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row2 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row5 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row3 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row4 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row2 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row5 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row3 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row4 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row2 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row5 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row3 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row4 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row2 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row5 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row3 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row4 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row2 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row5 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row3 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row4 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row2 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row5 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row3 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row4 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row2 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:10:12 UTC] PHP Notice:  Undefined variable: row5 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:10:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row3 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row4 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row2 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row5 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row3 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row4 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row2 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row5 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row3 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row4 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row2 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row5 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row3 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row4 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row2 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row5 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row3 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row4 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row2 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row5 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row3 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row4 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row2 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row5 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row3 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row4 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row2 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row5 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row3 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row4 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row2 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row5 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row3 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row4 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row2 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row5 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 43
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row3 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 56
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row4 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 72
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row2 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 85
+[01-May-2023 07:11:40 UTC] PHP Notice:  Undefined variable: row5 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:11:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 99
+[01-May-2023 07:13:09 UTC] PHP Notice:  Undefined variable: row in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 40
+[01-May-2023 07:13:09 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 40
+[01-May-2023 07:13:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 40
+[01-May-2023 07:13:09 UTC] PHP Notice:  Undefined variable: row3 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 53
+[01-May-2023 07:13:09 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 53
+[01-May-2023 07:13:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 53
+[01-May-2023 07:13:09 UTC] PHP Notice:  Undefined variable: row4 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 69
+[01-May-2023 07:13:09 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 69
+[01-May-2023 07:13:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 69
+[01-May-2023 07:13:09 UTC] PHP Notice:  Undefined variable: row2 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 82
+[01-May-2023 07:13:09 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 82
+[01-May-2023 07:13:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 82
+[01-May-2023 07:13:09 UTC] PHP Notice:  Undefined variable: row5 in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 96
+[01-May-2023 07:13:09 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 96
+[01-May-2023 07:13:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 96
+[01-May-2023 07:15:01 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 39
+[01-May-2023 07:15:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 39
+[01-May-2023 07:15:01 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 52
+[01-May-2023 07:15:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 52
+[01-May-2023 07:15:01 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 68
+[01-May-2023 07:15:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 68
+[01-May-2023 07:15:01 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 81
+[01-May-2023 07:15:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 81
+[01-May-2023 07:15:01 UTC] PHP Notice:  Trying to get property 'respuesta' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 95
+[01-May-2023 07:15:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 95
+[01-May-2023 07:16:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 39
+[01-May-2023 07:16:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 52
+[01-May-2023 07:16:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 68
+[01-May-2023 07:16:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 81
+[01-May-2023 07:16:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 95
+[01-May-2023 07:17:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 40
+[01-May-2023 07:17:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 53
+[01-May-2023 07:17:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 69
+[01-May-2023 07:17:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 82
+[01-May-2023 07:17:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 96
+[01-May-2023 07:19:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 40
+[01-May-2023 07:19:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 53
+[01-May-2023 07:19:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 69
+[01-May-2023 07:19:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 82
+[01-May-2023 07:19:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 96
+[01-May-2023 07:19:35 UTC] PHP Notice:  Array to string conversion in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 32
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:19:35 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Array to string conversion in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 32
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre_completo' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 42
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:52 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 55
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 71
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 84
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
+[01-May-2023 07:22:58 UTC] PHP Notice:  Trying to get property 'nombre' of non-object in /home/luminiso/public_html/membresias/backend/datos/solicitudesRegistro/datos.php on line 98
