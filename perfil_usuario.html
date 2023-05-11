@@ -172,18 +172,20 @@
                         <article class="info_perfil_usuario">
                             <div>
                                 <label for="">Nombre/s</label>
-                                <input type="text" placeholder="El pepe" disabled>
+                                <input class="statusInput" type="text" value="Jhon" disabled>
                             </div>
                             <div class="info_perfil_usuario-img">
                                 <img src="./img/avatar.png" alt="">
+                                <label class="info_perfil_usuario-img-edit show" for="img_upload"><i
+                                        class='fas fa-edit '></i>Editar</label>
                             </div>
                             <div>
                                 <label for="">Apellido</label>
-                                <input type="text" placeholder="Medio metro" disabled>
+                                <input class="statusInput" type="text" value="Doe" disabled>
                             </div>
                             <div>
                                 <label for="">Genero</label>
-                                <select disabled>
+                                <select class="statusInput" disabled>
                                     <option> Genero </option>
                                     <option value="M" selected>Masculino</option>
                                     <option value="F">Femenino</option>
@@ -193,7 +195,7 @@
                             <div class="info_perfil_usuario-lugar">
                                 <div>
                                     <label for="">Pais</label>
-                                    <select disabled>
+                                    <select class="statusInput" disabled>
                                         <option> Pais </option>
                                         <option value="M" selected>Mexico</option>
                                         <option value="F">El Salvador</option>
@@ -201,7 +203,7 @@
                                 </div>
                                 <div>
                                     <label for="">Estado</label>
-                                    <select disabled>
+                                    <select class="statusInput" disabled>
                                         <option> Estado </option>
                                         <option value="Puebla" selected>Puebla</option>
                                         <option value="Oaxaca">Oaxaca</option>
@@ -210,7 +212,7 @@
                             </div>
                             <div>
                                 <label for="">Universidad</label>
-                                <select disabled>
+                                <select class="statusInput" disabled>
                                     <option> Universidad </option>
                                     <option value="UPAEP" selected>Universidad Popular Autonoma del Estado de Puebla
                                         (UPAEP)</option>
@@ -219,22 +221,26 @@
                             </div>
                             <div>
                                 <label for="">Linea de invesigacion</label>
-                                <input type="text" placeholder="Tu corazon" disabled>
+                                <input type="text" value="Ciencias de la tecnologia" class="statusInput" disabled>
                             </div>
                             <div>
                                 <label for="">CV</label>
-                                <input type="file" disabled>
+                                <input type="file" class="statusInput" disabled>
                             </div>
                             <div>
                                 <label for="">Email</label>
-                                <input type="email" placeholder="ejemplo@upaep.mx" disabled>
+                                <input type="email" value="ejemplo@upaep.mx" class="statusInput" disabled>
                             </div>
                             <div>
                                 <label for="">Contraseña</label>
-                                <input type="password" placeholder="........" disabled>
+                                <input type="password" value="........" class="statusInput" disabled>
                             </div>
                         </article>
-                        <a href="edit_usuario.html" class="info_perfil-btnEditar" type="submit">Editar</a>
+                        <a class="info_perfil-btnEditar" type="submit">Editar</a>
+                        <div class="info_perfil-btnsEdit show">
+                            <button class="info_perfil-btnsEdit-aceptar" type="submit">Aceptar</button>
+                            <a class="info_perfil-btnsEdit-cancelar">Cancelar</a>
+                        </div>
                     </section>
                 </div>
                 <!-- /.container-fluid -->
@@ -299,7 +305,7 @@
     <!-- Page level custom scripts -->
     <script src="js/demo/chart-area-demo.js"></script>
     <script src="js/demo/chart-pie-demo.js"></script>
-
+    <script src="js/edit_user.js"></script>
 </body>
 
 </html>

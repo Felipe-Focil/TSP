@@ -8,6 +8,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
+    <script src="https://unpkg.com/pdf-lib@1.4.0"></script>
+    <script src="https://unpkg.com/downloadjs@1.4.7"></script>
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
 
     <title>REDMIS - Solicitudes pendientes</title>
     <!-- Custom styles for this template-->
@@ -202,13 +205,8 @@
                     </a>
 
                     <section class="pdf_container">
-                        <article>
-                            <span>Nombre</span>
-                            <span>Apellido</span>
-                        </article>
-                        <footer>
-                            <button type="button" class="btn btn-outline-success">Enviar</button>
-                        </footer>
+                        <iframe id="myPDF" src="" frameborder="0"></iframe>
+                        <button type="button" class="btn btn-outline-success" onclick="sendPDF()">Enviar</button>
                     </section>
 
                 </div>

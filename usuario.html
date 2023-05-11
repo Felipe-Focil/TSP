@@ -8,6 +8,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
+    <script src="https://unpkg.com/pdf-lib@1.4.0"></script>
+    <script src="https://unpkg.com/downloadjs@1.4.7"></script>
+    <script src="https://smtpjs.com/v3/smtp.js"></script>
 
     <title>REDMIS - Solicitudes pendientes</title>
 
@@ -224,15 +227,17 @@
                                         <option value="3">Three</option>
                                     </select>
                                     <div class="p-3 border bg-light">Pais</div>
-                                    <div class="p-3 border bg-light cv"> 
+                                    <div class="p-3 border bg-light cv">
                                         <i class="fa fa-download"></i><span>CV</span>
                                     </div>
                                     <div class="p-3 border bg-light">Estado</div>
                                     <div class="p-3 border bg-light">Email</div>
                                     <div class="p-3 border bg-light info_usuario-elem">Universidad</div>
-                                    <a href="pdf.html" class="btn btn-success btn-circle btn-lg info_usuario-chek">
-                                        <i class="fas fa-check"></i>
-                                    </a>
+                                    <button type="button"
+                                        onclick="generatePDF('Universidad Popular \nAutonoma del Estado de Puebla')"
+                                        class="btn btn-success btn-circle btn-lg info_usuario-chek"><i
+                                            class="fas fa-check"></i></button>
+
                                     <a href="#" class="btn btn-danger btn-circle btn-lg info_usuario-trash">
                                         <i class="fas fa-trash"></i>
                                     </a>
@@ -305,8 +310,9 @@
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
     <!-- Script propios -->
-    <script src="./js/variables.js" ></script>
-    <script src="./js/usuario.js" ></script>
+    <script src="./js/variables.js"></script>
+    <script src="./js/usuario.js"></script>
+    <script src="js/pdf.js"></script>
 
 </body>
 
